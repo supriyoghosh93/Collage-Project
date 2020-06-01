@@ -1,0 +1,321 @@
+/* Extra Large Devices, Wide Screens */
+@media only screen and (max-width : 1600px) {
+	.slider-area .slider-2 p,
+	.slider-area .slider-2 p{padding: 0 17%;}
+	.slider-area .slider-2 div.slider-botton,
+	.slider-area .slider-2 div.slider-botton {margin-top: 30px;}
+	.calendar-area {margin-left: 0;}
+	.calendar-area .wrapper .calendar-body .col-xs-1 {padding: 0px 40px;}
+	.course-info ul li {width: 21%;margin-right: 14px !important;	}
+}
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	.slider-area .slider-2 p,
+	.slider-area .slider-2 p{padding: 0 17%;font-size: 14px;}
+	.slider-area .slider-2 div.slider-botton,
+	.slider-area .slider-2 div.slider-botton {margin-top: 20px;}
+	.slider-area .slider-2 h1 {font-size: 42px;font-weight: 600;letter-spacing: 0;margin: 0;}
+	.calendar-area {margin-left: 0;}
+	.calendar-area .wrapper .calendar-body .col-xs-1 {padding: 0px 40px;}
+	.course-info ul li {width: 21%;margin-right: 14px !important;	}
+	.search-box-area .search-box .leave-comments-area fieldset .btn-send {padding: 12px 35px 9px;}
+	.blog-area .single-blog .blog-content h3 a {font-size: 16px;}
+	.event-area ul.nav.nav-tabs li a,
+	 .event-area ul.nav.nav-tabs li.active a{padding: 15px 68px;}
+	 .event-area .tab-content .single-event .media .media-body ul {display: none;}
+	 .events-details-area .event-details-list ul li {font-size: 15px;}
+	 .events-details-area .event-details ul li:nth-child(2n+2) {margin-left: 53%;}
+	 .blog-page-area .single-blog-content .media .media-body p {padding-bottom: 0;}
+	 .cources-area .single-course .media .media-body ul li i { margin-right: 5px;}
+	 .cources-area .single-course .media .media-body .rating {right: 0;}
+	 .shop-page-area .tobar-area .showing-result ul li {margin-right: 0;}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.slider-area .slider-2 p,
+	.slider-area .slider-2 p{padding: 0 17%;font-size: 14px;}
+	.slider-area .slider-2 div.slider-botton,
+	.slider-area .slider-2 div.slider-botton {margin-top: 20px;}
+	.slider-area .slider-2 h1 {font-size: 42px;font-weight: 600;letter-spacing: 0;margin: 0;}
+	.preview-2 .nivo-controlNav{display: none;}
+	.calendar-area {margin-left: 0;}
+	.calendar-area .wrapper .calendar-body .col-xs-1 {padding: 0px 40px;}
+	.course-info ul li {width: 21%;margin-right: 14px !important;	}
+	.search-box-area .search-box .leave-comments-area fieldset .btn-send {padding: 10px 3px 10px;}
+	.blog-area .single-blog .blog-content h3 a {font-size: 16px;}
+	.event-area ul.nav.nav-tabs li a,
+	 .event-area ul.nav.nav-tabs li.active a{padding: 15px 41px;}
+	 .event-area .tab-content .single-event .media .media-body ul {display: none;}
+	 .events-details-area .event-details-list ul li {font-size: 15px;}
+	 .events-details-area .event-details ul li:nth-child(2n+2) {    margin-left: 0; float: inherit; margin: auto;}
+	 .blog-page-area .single-blog-content .media .media-body p {padding-bottom: 0;}
+	 .cources-area .single-course .media .media-body ul li i { margin-right: 5px;}
+	 .cources-area .single-course .media .media-body .rating {right: 0;}
+	 .shop-page-area .tobar-area .showing-result ul li {margin-right: 0;}
+	 header .header-area .main-menu ul li a {padding: 0 5px; }
+	 .why-connect-us .section-title h2 {font-size: 24px;}
+	 .register-now-area .register-text p {padding: 0 15px;}
+	 .blog-page-area .single-blog-content .media .pull-left,
+	 .cources-area .single-course .media .pull-left {float: inherit !important; }
+	 .sidebar-area .widget .widget_title {font-size: 15px;letter-spacing: 0px;}
+	 .sidebar-area .widget.widget_recent_entries .media .pull-left { margin-right: 0;}
+	 header .header-top-area .header-top-left ul,
+	 header .header-top-area .header-top-right ul { margin: 5px 0;text-align: center; }
+	 .blog-area .single-blog .blog-content { margin: 0; padding: 14px; width: 100%;	 }
+	 .event-area .tab-content .single-event .media .media-body h3 { margin: 10px 0;	 }
+	 .event-area .tab-content .single-event .media .pull-left a {display: block; margin-right: 10px;}
+	 
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 767px) {
+	.header-area,
+	.preview-2 .nivo-controlNav{display: none;}
+	.mobile-menu-area{display: block;}
+	.slider-area .slider-2 p,
+	.slider-area .slider-2 p{padding: 0 17%;font-size: 14px;display: none;}
+	.slider-area .slider-2 div.slider-botton,
+	.slider-area .slider-2 div.slider-botton {margin-top:10px;}
+	.slider-area .slider-2 h1 {font-size: 30px;font-weight: 600;letter-spacing: 0;margin: 0;}
+	header .header-top-area .header-top-left ul li { font-size: 13px;margin: 0 3px;}
+	.slider-area .slider-2 div.title2 {font-size: 18px;}
+	 .slider-area{margin: 0;}	 
+	 .slider-area .single-slider h2 {font-size: 25px;}
+	.calendar-area {margin-left: 0;}
+	.calendar-area .wrapper .calendar-body .col-xs-1 {padding: 0px 30px;}
+	.course-info ul li {width: 21%;margin-right: 14px !important;	}
+	.search-box-area .search-box .leave-comments-area fieldset .btn-send {padding: 10px 3px 10px;font-size: 13px;}
+	.blog-area .single-blog .blog-content h3 a {font-size: 16px;}
+	.event-area ul.nav.nav-tabs li a,
+	 .event-area ul.nav.nav-tabs li.active a{padding: 15px 24px;}
+	 .event-area .tab-content .single-event .media .media-body ul {display: none;}
+	 .events-details-area .event-details-list ul li {font-size: 15px;}
+	 .events-details-area .event-details ul li:nth-child(2n+2) {    margin-left: 0; float: inherit; margin: auto;}
+	 .blog-page-area .single-blog-content .media .media-body p {padding-bottom: 0;}
+	 .cources-area .single-course .media .media-body ul li i { margin-right: 5px;}
+	 .cources-area .single-course .media .media-body .rating {right: 0;}
+	 .shop-page-area .tobar-area .showing-result ul li {margin-right: 0;}
+	 header .header-area .main-menu ul li a {padding: 0 5px; }
+	 .why-connect-us .section-title h2 {font-size: 24px;}
+	 .register-now-area .register-text p {padding: 0 15px;}
+	 .blog-page-area .single-blog-content .media .pull-left,
+	 .cources-area .single-course .media .pull-left,
+	 .event-area .tab-content .single-event .media .pull-left {float: inherit !important;padding-right: 0; margin-right: 0; }
+	 .sidebar-area .widget .widget_title {font-size: 15px;letter-spacing: 0px;}
+	 .sidebar-area .widget.widget_recent_entries .media .pull-left { margin-right: 0;}
+	 header .header-top-area .header-top .header-top-left ul {text-align: center;}
+	 header .header-top-area .header-top .header-top-right ul {margin: 10px 0;text-align: center;}
+	 .event-area .tab-content .single-event .media .pull-left a {margin-right: 0;}
+	 .event-area .tab-content .single-event .media .pull-left .overley {width: 100%;}
+	 .events-details-area .about-organization .media .pull-left {margin-right: 0 !important;float: inherit !important;margin-bottom: 30px;}
+	 .blog-page-area .single-blog .blog-details h3 {margin-bottom: 10px;font-size: 22px;}
+	 .register-now-area .register-text { padding: 0 0 30px;	 }
+	 .home-page-testimonial-area .testimonial-area .single-testiminial p {padding: 10px 0;}
+	 .subscribe-area p { padding: 0 30px;	 }
+	 .sidebar-area {  margin: 15px 0;	 }
+	 .shop-page-area .tobar-area .view-area p {text-align: center; }
+	 .shop-page-area .tobar-area .showing-result ul { text-align: center;}
+	 .table-button-right,
+	 .table-button-left{ display: block; float: inherit; margin: 20px 0; }
+	 .sidebar-area .widget.widget_recent_entries .media .pull-left { margin-right: 0;}
+	 header .header-top-area .header-top-left ul,
+	 header .header-top-area .header-top-right ul { margin: 5px 0;text-align: center; }
+	 .blog-area .single-blog .blog-content { margin: 0; padding: 14px; width: 100%;	 }
+	 .event-area .tab-content .single-event .media .media-body h3 { margin: 10px 0;	 }
+	 .event-area .tab-content .single-event .media .pull-left a {display: block; margin-right: 10px;}
+	 .page-header-area { padding: 230px 0 70px;}
+	 header .header-top-area .header-top-left ul li {margin-right: 4px; }
+	 .why-connect-us { background: #000000 none repeat scroll 0 0; padding: 70px 0;	 }
+	 .showing-result {	   margin: 5px 0;	 }
+	 .product-description .tab-content .media-left, .media > .pull-left { display: block; float: inherit !important; margin: 10px 0;}
+	 .related-product-area .single-product-store::after {display: none; }
+	 .table-button-left { float: left; margin-right: 0%; width: 100%; }
+	 .table-button-area .button-area .button { display: block;  width: 100%;	 }
+	 .table-button-right ul li { display: block;  margin: 15px 0;  padding: 0;	 }
+	 .calancer-area .calender-image img { height: 100%;  width: 100%; }
+	 .search-box-area {margin-top:70px;}
+	 .why-connect-us .section-title {float: inherit; width: 100%;text-align: center;}
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+	.header-area{display: none;}
+	.mobile-menu-area{display: block;}
+	.slider-area .slider-2 p,
+	.slider-area .slider-2 p{padding: 0 17%;font-size: 14px;display: none;}
+	.slider-area .slider-2 div.slider-botton,
+	.slider-area .slider-2 div.slider-botton {margin-top:10px;font-size: 13px !important;}
+	.slider-area .slider-2 h1 {font-size: 20px;font-weight: 600;letter-spacing: 0;margin: 0;}
+	header .header-top-area .header-top-left ul li { font-size: 13px;margin: 0 3px;}
+	.slider-area .slider-2 div.title2 {font-size: 16px;}
+	.calendar-area {margin-left: 0;}
+	.calendar-area .wrapper .calendar-body .col-xs-1 {padding: 0px 30px;}
+	.course-info ul li {width: 21%;margin-right: 14px !important;	}
+	.search-box-area .search-box .leave-comments-area fieldset .btn-send {padding: 10px 3px 10px;}
+	.blog-area .single-blog .blog-content h3 a {font-size: 16px;}
+	.event-area ul.nav.nav-tabs li a,
+	 .event-area ul.nav.nav-tabs li.active a{padding: 15px 24px;}
+	 .event-area .tab-content .single-event .media .media-body ul {display: none;}
+	 .events-details-area .event-details-list ul li {font-size: 15px;}
+	 .events-details-area .event-details ul li:nth-child(2n+2) {    margin-left: 0; float: inherit; margin: auto;}
+	 .blog-page-area .single-blog-content .media .media-body p {padding-bottom: 0;}
+	 .cources-area .single-course .media .media-body ul li i { margin-right: 5px;}
+	 .cources-area .single-course .media .media-body .rating {right: 0;display: none;}
+	 .shop-page-area .tobar-area .showing-result ul li {margin-right: 0;}
+	 header .header-area .main-menu ul li a {padding: 0 5px; }
+	 .why-connect-us .section-title h2 {font-size: 20px;}
+	 .register-now-area .register-text p {padding: 0 15px;}
+	 .blog-page-area .single-blog-content .media .pull-left,
+	 .cources-area .single-course .media .pull-left,
+	 .event-area .tab-content .single-event .media .pull-left {float: inherit !important;padding-right: 0; margin-right: 0; }
+	 .sidebar-area .widget .widget_title {font-size: 15px;letter-spacing: 0px;}
+	 .sidebar-area .widget.widget_recent_entries .media .pull-left { margin-right: 0;}
+	 header .header-top-area .header-top .header-top-left ul {text-align: center;}
+	 header .header-top-area .header-top .header-top-right ul {margin: 10px 0;text-align: center;}
+	 .event-area .tab-content .single-event .media .pull-left a {margin-right: 0;}
+	 .event-area .tab-content .single-event .media .pull-left .overley {width: 100%;}
+	 .events-details-area .about-organization .media .pull-left {margin-right: 0 !important;float: inherit !important;margin-bottom: 30px;}
+	 .blog-page-area .single-blog .blog-details h3 {margin-bottom: 10px;font-size: 22px;}
+	 .slider-area .single-slider h2 {font-size: 16px;	 }
+	 .register-now-area .register-text { padding: 0 0 30px;	 }
+	 .home-page-testimonial-area .testimonial-area .single-testiminial p {padding: 10px 0;}
+	 .subscribe-area p { padding: 0 30px;	 }
+	 .sidebar-area {  margin: 15px 0;	 }
+	 .shop-page-area .tobar-area .view-area p {text-align: center; }
+	 .shop-page-area .tobar-area .showing-result ul { text-align: center;}
+	 .table-button-right,
+	 .table-button-left{ display: block; float: inherit; margin: 20px 0; }
+	 .sidebar-area .widget.widget_recent_entries .media .pull-left { margin-right: 0;}
+	 header .header-top-area .header-top-left ul,
+	 header .header-top-area .header-top-right ul { margin: 0 0 10px;text-align: center;}
+	 .blog-area .single-blog .blog-content { margin: 0; padding: 14px; width: 100%;	 }
+	 .event-area .tab-content .single-event .media .media-body h3 { margin: 10px 0;	 }
+	 .event-area .tab-content .single-event .media .pull-left a {display: block; margin-right: 10px;}
+	 .page-header-area { padding: 230px 0 70px;}
+	 header .header-top-area .header-top-left ul li {margin-right: 0;padding: 0;}
+	 .why-connect-us { background: #000000 none repeat scroll 0 0; padding: 70px 0;	 }
+	 .showing-result {	   margin: 5px 0;	 }
+	 .product-description .tab-content .media-left, .media > .pull-left { display: block; float: inherit !important; margin: 10px 0;}
+	 .related-product-area .single-product-store::after {display: none; }
+	 .table-button-left { float: left; margin-right: 0%; width: 100%; }
+	 .table-button-area .button-area .button { display: block;  width: 100%;	 }
+	 .table-button-right ul li { display: block;  margin: 15px 0;  padding: 0;	 }
+	 .slider-area .single-slider ul li a {padding: 3px 10px;}
+	 .calancer-area .calender-image img { height: 100%;  width: 100%; }
+	 .event-area .nav-tabs > li { float: inherit !important; margin-bottom: 10px !important;}
+	 .events-details-area .event-details h3,
+	 .about-organization > h3 {  font-size: 14px;  margin-bottom: 20px;	 }
+	 .events-details-area .event-details span {display: block;margin-bottom: 15px;position: inherit; right: 0;top: 0;}
+	 .about-organization {	   margin-top: 30px;	 }
+	 .blog-page-area .single-blog-content .media .media-body { padding: 15px;}
+	 .blog-page-area .single-blog-content .media .media-body h4.media-heading a,
+	 .blog-page-area .single-blog .blog-details h3,
+	 .cources-area .single-course .media .media-body h3 a {font-size: 16px; }
+	 .blog-page-area .single-blog-area .comments-area .single-comments-box.second-comments { margin-left: 0;}
+	 .course-info ul li { border: medium none; display: block; margin: 10px 0; width: 100%; }
+	 .page-header-area h1 {font-size: 30px;	 }
+	 a.button {
+	   font-size: 14px;
+	   font-weight: 400;
+	   height: 40px !important;
+	   line-height: 20px !important;
+	   text-align: center;
+	   width: 100px !important
+
+	 }
+	 .nivo-directionNav a {top: 24%;}
+	 .preview-2 .nivo-directionNav a.nivo-nextNav::before,
+	  .preview-2 .nivo-directionNav a.nivo-prevNav::before{font: 400 16px/30px FontAwesome;height: 30px;width: 30px;}
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+	.header-area{display: none;}
+	.mobile-menu-area{display: block;}
+	.slider-area .slider-2 p,
+	.slider-area .slider-2 p{padding: 0 17%;font-size: 14px;display: none;}
+	.slider-area .slider-2 div.slider-botton,
+	.slider-area .slider-2 div.slider-botton {margin-top:10px;}
+	.slider-area .slider-2 h1 {font-size: 20px;font-weight: 600;letter-spacing: 0;margin: 0;}
+	header .header-top-area .header-top-left ul li { font-size: 13px;margin: 0 3px;}
+	.slider-area .slider-2 div.title2 {font-size: 16px;}
+	.calendar-area {margin-left: 0;}
+	.calendar-area .wrapper .calendar-body .col-xs-1 {padding: 0px 30px;}
+	.course-info ul li {width: 21%;margin-right: 14px !important;	}
+	.search-box-area .search-box .leave-comments-area fieldset .btn-send {padding: 10px 3px 10px;}
+	.blog-area .single-blog .blog-content h3 a {font-size: 16px;}
+	.event-area ul.nav.nav-tabs li a,
+	 .event-area ul.nav.nav-tabs li.active a{padding: 15px 24px;}
+	 .event-area .tab-content .single-event .media .media-body ul {display: none;}
+	 .events-details-area .event-details-list ul li {font-size: 15px;}
+	 .events-details-area .event-details ul li:nth-child(2n+2) {    margin-left: 0; float: inherit; margin: auto;}
+	 .blog-page-area .single-blog-content .media .media-body p {padding-bottom: 0;}
+	 .cources-area .single-course .media .media-body ul li i { margin-right: 5px;}
+	 .cources-area .single-course .media .media-body .rating {right: 0;display: none;}
+	 .shop-page-area .tobar-area .showing-result ul li {margin-right: 0;}
+	 header .header-area .main-menu ul li a {padding: 0 5px; }
+	 .why-connect-us .section-title h2 {font-size: 20px;}
+	 .register-now-area .register-text p {padding: 0 15px;}
+	 .blog-page-area .single-blog-content .media .pull-left,
+	 .cources-area .single-course .media .pull-left,
+	 .event-area .tab-content .single-event .media .pull-left {float: inherit !important;padding-right: 0; margin-right: 0; }
+	 .sidebar-area .widget .widget_title {font-size: 15px;letter-spacing: 0px;}
+	 .sidebar-area .widget.widget_recent_entries .media .pull-left { margin-right: 0;}
+	 header .header-top-area .header-top .header-top-left ul {text-align: center;}
+	 header .header-top-area .header-top .header-top-right ul {margin: 10px 0;text-align: center;}
+	 .event-area .tab-content .single-event .media .pull-left a {margin-right: 0;}
+	 .event-area .tab-content .single-event .media .pull-left .overley {width: 100%;}
+	 .events-details-area .about-organization .media .pull-left {margin-right: 0 !important;float: inherit !important;margin-bottom: 30px;}
+	 .blog-page-area .single-blog .blog-details h3 {margin-bottom: 10px;font-size: 22px;}
+	 .slider-area .single-slider h2 {font-size: 16px;	 }
+	 .register-now-area .register-text { padding: 0 0 30px;	 }
+	 .home-page-testimonial-area .testimonial-area .single-testiminial p {padding: 10px 0;}
+	 .subscribe-area p { padding: 0 30px;	 }
+	 .sidebar-area {  margin: 15px 0;	 }
+	 .shop-page-area .tobar-area .view-area p {text-align: center; }
+	 .shop-page-area .tobar-area .showing-result ul { text-align: center;}
+	 .table-button-right,
+	 .table-button-left{ display: block; float: inherit; margin: 20px 0; }
+	 .sidebar-area .widget.widget_recent_entries .media .pull-left { margin-right: 0;}
+	 header .header-top-area .header-top-left ul,
+	 header .header-top-area .header-top-right ul { margin: 0 0 10px;text-align: center;}
+	 .blog-area .single-blog .blog-content { margin: 0; padding: 14px; width: 100%;	 }
+	 .event-area .tab-content .single-event .media .media-body h3 { margin: 10px 0;	 }
+	 .event-area .tab-content .single-event .media .pull-left a {display: block; margin-right: 10px;}
+	 .page-header-area { padding: 230px 0 70px;}
+	 header .header-top-area .header-top-left ul li {margin-right: 0;padding: 0;}
+	 .why-connect-us { background: #000000 none repeat scroll 0 0; padding: 70px 0;	 }
+	 .showing-result {	   margin: 5px 0;	 }
+	 .product-description .tab-content .media-left, .media > .pull-left { display: block; float: inherit !important; margin: 10px 0;}
+	 .related-product-area .single-product-store::after {display: none; }
+	 .table-button-left { float: left; margin-right: 0%; width: 100%; }
+	 .table-button-area .button-area .button { display: block;  width: 100%;	 }
+	 .table-button-right ul li { display: block;  margin: 15px 0;  padding: 0;	 }
+	 .slider-area .single-slider ul li a {padding: 3px 10px;}
+	 .calancer-area .calender-image img { height: 100%;  width: 100%; }
+	 .event-area .nav-tabs > li { float: inherit !important; margin-bottom: 10px !important;}
+	 .events-details-area .event-details h3,
+	 .about-organization > h3 {  font-size: 14px;  margin-bottom: 20px;	 }
+	 .events-details-area .event-details span {display: block;margin-bottom: 15px;position: inherit; right: 0;top: 0;}
+	 .about-organization {	   margin-top: 30px;	 }
+	 .blog-page-area .single-blog-content .media .media-body { padding: 15px;}
+	 .blog-page-area .single-blog-content .media .media-body h4.media-heading a,
+	 .blog-page-area .single-blog .blog-details h3,
+	 .cources-area .single-course .media .media-body h3 a {font-size: 16px; }
+	 .blog-page-area .single-blog-area .comments-area .single-comments-box.second-comments { margin-left: 0;}
+	 .course-info ul li { border: medium none; display: block; margin: 10px 0; width: 100%; }
+	 .page-header-area h1 {font-size: 30px;	 }
+	 a.button {
+	   font-size: 14px;
+	   font-weight: 400;
+	   height: 40px !important;
+	   line-height: 20px !important;
+	   text-align: center;
+	   width: 100px !important
+
+	 }
+	 .nivo-directionNav a {top: 24%;}
+	 .preview-2 .nivo-directionNav a.nivo-nextNav::before,
+	  .preview-2 .nivo-directionNav a.nivo-prevNav::before{font: 400 16px/30px FontAwesome;height: 30px;width: 30px;}
+}

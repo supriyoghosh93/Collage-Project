@@ -1,0 +1,56 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/08/2017 07:51
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-book-3:before { content: "\f100"; }
+.flaticon-agenda-2:before { content: "\f101"; }
+.flaticon-agenda-1:before { content: "\f102"; }
+.flaticon-school:before { content: "\f103"; }
+.flaticon-book-2:before { content: "\f104"; }
+.flaticon-book-1:before { content: "\f105"; }
+.flaticon-agenda:before { content: "\f106"; }
+.flaticon-man-reading:before { content: "\f107"; }
+.flaticon-open-book-top-view:before { content: "\f108"; }
+.flaticon-open-book-3:before { content: "\f109"; }
+.flaticon-books-stack:before { content: "\f10a"; }
+.flaticon-library:before { content: "\f10b"; }
+.flaticon-open-book-2:before { content: "\f10c"; }
+.flaticon-open-book-1:before { content: "\f10d"; }
+.flaticon-notebook-2:before { content: "\f10e"; }
+.flaticon-notebook-1:before { content: "\f10f"; }
+.flaticon-notebook:before { content: "\f110"; }
+.flaticon-book:before { content: "\f111"; }
+.flaticon-books-stack-of-three:before { content: "\f112"; }
+.flaticon-open-book:before { content: "\f113"; }
+.flaticon-mobile-phone:before { content: "\f114"; }
+.flaticon-navigation-app:before { content: "\f115"; }
+.flaticon-smartphone:before { content: "\f116"; }
+.flaticon-mobile-app-developing:before { content: "\f117"; }
+.flaticon-progress-report:before { content: "\f118"; }
+.flaticon-language:before { content: "\f119"; }
+.flaticon-website-design-symbol:before { content: "\f11a"; }
